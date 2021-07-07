@@ -28,7 +28,7 @@ Shows popular meals with 3D cards
 ![](/assets/images/screenshot2.jpg)
 The Gallery page has hover effects to really catch the users eye
 ![](/assets/images/screenshot3.jpg)
-At the bottome of the gallery page is the custom Contact form
+At the bottom of the gallery page is the custom Contact form
 ![](/assets/images/screenshot4.jpg)
 
 ## Questions :question:
